@@ -8,10 +8,11 @@
 layout: page
 ---
 
-
-
+Content:
 - [Degree Options](#degree-options)
 - [FAQ with Interdisc. Alums](#faq-with-interdisc-alums)
+
+<br>
 
 ---
 
@@ -33,6 +34,8 @@ If you are an undergraduate student at CMU interested in studying art+technology
 - Student-Defined Major (SDF)
 - Student-Defined Minor (SDM)
 - Accelerated Master’s Program (AMP)
+
+<br>
 
 ### FAQ with Interdisc. Alums
 
