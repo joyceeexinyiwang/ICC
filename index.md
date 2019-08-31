@@ -8,9 +8,16 @@
 layout: page
 ---
 
+This is the place where you can find all kinds of resources, as an **undergraduate** student who wants to pursue interdisciplinary interests at Carnegie Mellon University.
+
+##### *Last updated on 8/31/2019*
+
 Content:
 - [Degree Options](#degree-options)
+- [Grants for Interdisc. Projects](#grants-for-nterdisc-projects)
+- [Resources in Pittsburgh] (#resources-in-pittsburgh)
 - [FAQ with Interdisc. Alums](#faq-with-interdisc-alums)
+- [Find a Mentor](#find-a-mentor)
 
 <br>
 
@@ -19,6 +26,10 @@ Content:
 <br>
 
 ### Degree Options
+
+
+
+#### Centers
 
 If you are an undergraduate student at CMU interested in studying art+technology, there are a lot of degree options. Check out this [blog](http://www.flong.com/blog/2017/art-technology-options-at-cmu/) by Prof. Golan Levin. Here are some of these options:
 
@@ -37,6 +48,19 @@ If you are an undergraduate student at CMU interested in studying art+technology
 
 <br>
 
+### Grants for Interdisc. Projects
+
+- Simon Initiative
+- SURG/ProSEED
+- The Frank-Ratchye Fund
+- BXA Small Grant
+
+<br>
+
+### Resources in Pittsburgh
+
+<br>
+
 ### FAQ with Interdisc. Alums
 
 #### How to choose courses?
@@ -50,3 +74,9 @@ If you are an undergraduate student at CMU interested in studying art+technology
 *"blah blah blah"* -- Some Person
 
 *"blah blah blah"* -- Another Person
+
+<br>
+
+### Find a Mentor
+
+Here is a list of current students.
