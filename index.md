@@ -87,4 +87,4 @@ lorem ipsum
 
 ### Find a Mentor
 
-Here is a list of current students.
+Here is a list of current students, who would be down to grab coffee with you.
