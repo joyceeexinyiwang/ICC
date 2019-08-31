@@ -17,7 +17,7 @@ This is the place where you can find all kinds of resources, as an **undergradua
 Content:
 - [Degree Options](#degree-options)
 - [Grants for Interdisc. Projects](#grants-for-nterdisc-projects)
-- [Resources in Pittsburgh] (#resources-in-pittsburgh)
+- [Resources in Pittsburgh](#resources-in-pittsburgh)
 - [FAQ with Interdisc. Alums](#faq-with-interdisc-alums)
 - [Find a Mentor](#find-a-mentor)
 
@@ -30,8 +30,12 @@ Content:
 ### Degree Options
 
 
-
-#### Centers
+- SHS
+- BXA (BCSA, BEA, BSA, BHA)
+- IDeATe (minors)
+- HCI (double major or minor)
+- Digital Humanities (minor)
+- etc???
 
 If you are an undergraduate student at CMU interested in studying art+technology, there are a lot of degree options. Check out this [blog](http://www.flong.com/blog/2017/art-technology-options-at-cmu/) by Prof. Golan Levin. Here are some of these options:
 
