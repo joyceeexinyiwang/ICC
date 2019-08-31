@@ -16,7 +16,7 @@ This page offers resources for **undergraduate** students who want to pursue int
 
 Content:
 - [Degree Options](#degree-options)
-- [Grants for Interdisc. Projects](#grants-for-nterdisc-projects)
+- [Grants for Interdisc. Projects](#grants-for-interdisc-projects)
 - [Resources in Pittsburgh](#resources-in-pittsburgh)
 - [FAQ with Interdisc. Alums](#faq-with-interdisc-alums)
 - [Find a Mentor](#find-a-mentor)
