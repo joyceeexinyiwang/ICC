@@ -12,6 +12,8 @@ This is the place where you can find all kinds of resources, as an **undergradua
 
 ##### *Last updated on 8/31/2019*
 
+<br>
+
 Content:
 - [Degree Options](#degree-options)
 - [Grants for Interdisc. Projects](#grants-for-nterdisc-projects)
@@ -59,17 +61,19 @@ If you are an undergraduate student at CMU interested in studying art+technology
 
 ### Resources in Pittsburgh
 
+lorem ipsum
+
 <br>
 
 ### FAQ with Interdisc. Alums
 
-#### How to choose courses?
+**How to choose courses?**
 
 *"blah blah blah"* -- Some Person
 
 *"blah blah blah"* -- Another Person
 
-#### How to explain your atypical degree to someone who is unfamiliar with your field?
+**How to explain your atypical degree to someone who is unfamiliar with your field?**
 
 *"blah blah blah"* -- Some Person
 
