@@ -9,6 +9,8 @@ layout: page
 ---
 
 
+[link](#degree_options)
+
 ## Degree Options
 
 If you are an undergraduate student at CMU interested in studying art+technology, there are a lot of degree options. Check out this [blog](http://www.flong.com/blog/2017/art-technology-options-at-cmu/) by Prof. Golan Levin. Here are some of these options:
@@ -28,14 +30,14 @@ If you are an undergraduate student at CMU interested in studying art+technology
 
 ## Hot Tips from Interdisc. Alums
 
-#### How to choose courses?
+##### How to choose courses?
 
-*blah blah blah* -- Some Person
+*"blah blah blah"* -- Some Person
 
-*blah blah blah* -- Another Person
+*"blah blah blah"* -- Another Person
 
-#### How to explain your atypical degree to someone who is unfamiliar with your field?
+##### How to explain your atypical degree to someone who is unfamiliar with your field?
 
-*blah blah blah* -- Some Person
+*"blah blah blah"* -- Some Person
 
-*blah blah blah* -- Another Person
+*"blah blah blah"* -- Another Person
