@@ -9,7 +9,7 @@ layout: page
 ---
 
 
-[link](#degree_options)
+[link](#degree-options)
 
 ## Degree Options
 
