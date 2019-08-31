@@ -27,7 +27,7 @@ Content:
 
 <br>
 
-### Degree Options
+## Degree Options
 
 
 - SHS
@@ -54,7 +54,7 @@ If you are an undergraduate student at CMU interested in studying art+technology
 
 <br>
 
-### Grants for Interdisc. Projects
+## Grants for Interdisc. Projects
 
 - Simon Initiative
 - SURG/ProSEED
@@ -63,19 +63,21 @@ If you are an undergraduate student at CMU interested in studying art+technology
 
 <br>
 
-### Resources in Pittsburgh
+## Resources in Pittsburgh
 
 lorem ipsum
 
 <br>
 
-### FAQ with Interdisc. Alums
+## FAQ with Interdisc. Alums
 
 **How to choose courses?**
 
 *"blah blah blah"* -- Some Person
 
 *"blah blah blah"* -- Another Person
+
+<br>
 
 **How to explain your atypical degree to someone who is unfamiliar with your field?**
 
@@ -85,6 +87,6 @@ lorem ipsum
 
 <br>
 
-### Find a Mentor
+## Find a Mentor
 
 Here is a list of current students, who would be down to grab coffee with you.
