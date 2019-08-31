@@ -11,7 +11,7 @@ layout: page
 
 
 - [Degree Options](#degree-options)
-- [FAQ with Interdisc. Alums](#faq-with-interdisc.alums)
+- [FAQ with Interdisc. Alums](#faq-with-interdisc-alums)
 
 ---
 
