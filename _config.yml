@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Resources for Interdisciplinary Undergraduate Students at CMU
+author: Interdisciplinary Community Initiative
+email: joycexinyiwang@cmu.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Our mission is to empower individual students in the pursuits of interdisciplinary interests and strengthen the sense of community among us. We believe that our campus will be stronger if we learn to appreciate how each other think.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
