@@ -8,7 +8,7 @@
 layout: page
 ---
 
-This is the place where you can find all kinds of resources, as an **undergraduate** student who wants to pursue interdisciplinary interests at Carnegie Mellon University.
+This page offers resources for **undergraduate** students who want to pursue interdisciplinary interests at Carnegie Mellon University.
 
 ##### *Last updated on 8/31/2019*
 
